@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>My Very First Webpage</title>
+  <meta charset="UTF-8">
+  <meta content="description" content="This page is where I lose my no-code virginity to the seductive fire of HTML.">.
+ <meta name="author" content="Sonia Amadi" 
+       </head>
+  <body>
+    <h1>Welcome Home Suckers!</h1>
+    <p>Okay, this is where I'll be talking about my journey in the <b>yes-code</b> world. It'll be full of <i>attributed</i> adventures and <i>tagged</i> fun. <br> <br> Who's excited?? </br> </br>
+First, let's start with the work I've done so far. Today, I'm a writer of some repute, but my journey to the world of words began over over two years ago. I'd stumbled on a BellaNaija ad asking for stories from tribes other than the <b> <i> Big Three. </i> </b> And decided to rep my people, <a href="https://www.bellanaija.com/2018/08/beyond-three-nhaoma-takes-south-sourth-meet-the-ikwerres-river-state/">the Ikwerres.</a> <br> </br>
+<a href="https://codepen.io/nhaoma/pen/RwaeqJq?editors=1000">First Code 2</a> 
+<br> </br>
+Now, as to what an Ikwerre woman looks like, here's a sample. <br> </br>
+<img src="https://www.bellanaija.com/wp-content/uploads/2019/10/73414118_378296963055349_915754539965404560_n.jpg" alt="Nyekachi Douglas, Miss World Africa" height="540" width="540"> <br> </br>
+<h2> Let's talk about Rivers State </h2>
+I'm practicing the different kinds of lists, so I'll be trying out ordered lists, unordered lists and definition lists. Let's start with the 23 Local governments in R/S. I'll present them in an ordered list. Here goes nothing!
+<h3>LGAs in Rivers State </h3>
+<ol>
+  <li> Abual/Odual LGA </li> 
+  <li> Ahoada East LGA </li>
+  <li> Ahoada West LGA </li>
+  <li> Akuku Toru LGA </li>
+  <li> Asari Toru LGA </li>
+  <li> Buguma LGA </li>
+  <li> Degema LGA </li>
+  <li> Emuoha LGA </li>
+  <li> Ikwerre LGA </li>
+  <li> Obio/Akpor LGA </li>
+  <li> Port Harcourt LGA </li>
+</ol>
+<h3>Ethnic Groups in Rivers State</h3>
+<ul>
+  <li>Ikwerre</li>
+  <li>Kalabari</li>
+  <li>Etche</li>
+  <li>Ahoada</li>
+  <li>Abua</li>
+  <li>Okrika</li>
+  <li>Opobo</li>
+  <li>Ogoni</li>
+</ul>
+<h3>States in the South-South</h3>
+<dl>
+  <dt> <b> Rivers State </b> </dt>
+  <dd>This state was created in 1967, by the Yakubu Gowon military Government. It originally comprised of present-day Rivers State and Bayelsa State, but the Ijaw Rivers (as Bayelsa was known) was granted autonmy in 1996. 
